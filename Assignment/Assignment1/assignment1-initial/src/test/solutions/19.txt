@@ -1,0 +1,1 @@
+string,str,<-,testcase19 ## Comment in string,<EOF>

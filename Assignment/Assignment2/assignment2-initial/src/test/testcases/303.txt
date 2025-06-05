@@ -1,0 +1,8 @@
+
+
+func foo__(bool boo)
+begin
+    concat(boo,"s"* 74)
+    s <- concat(s,-61.245)
+end
+var x__y <- [a,b,c] + 456

@@ -1,0 +1,8 @@
+
+            number arr[0.3, 3e+9] <- Nhat
+            func main()
+            begin
+                if (arr[0.3]..."Huhu test 178 dai qua") print("Sorry thay")
+                else break
+            end
+        

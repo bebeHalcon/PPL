@@ -1,0 +1,18 @@
+ ## multiple consecutive elif-statements
+func main()   
+begin 
+    if (a) begin
+    end
+    elif (b) begin
+    end
+    elif (c) begin
+    end
+    elif (d) begin
+    end
+    elif (e) begin
+    end
+    elif (f) begin
+    end
+    else begin
+    end
+end

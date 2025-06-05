@@ -1,0 +1,7 @@
+## just another random testcase
+func main()
+begin 
+    var new <- __init__(self,x,y)
+    dynamic x <- 6
+end
+number xxx

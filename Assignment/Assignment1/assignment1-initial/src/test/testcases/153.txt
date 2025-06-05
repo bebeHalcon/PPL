@@ -1,0 +1,4 @@
+
+            string str <- foo()[2, 3, 4]
+            number a <- str[2][4]
+        

@@ -1,0 +1,10 @@
+
+            func main()
+            begin
+                number Number
+                string String
+                bool Bool
+                dynamic Dynamic
+                var Var <- Var
+            end
+        

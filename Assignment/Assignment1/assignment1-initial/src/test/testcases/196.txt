@@ -1,0 +1,7 @@
+
+            string a <- "Hoang '" Nhat ... " ... 4869"--"
+            func main()
+            begin
+                print(a)
+            end
+        

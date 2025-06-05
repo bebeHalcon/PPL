@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(_1), [], None), VarDecl(Id(_1), NumberType, None, None), FuncDecl(Id(_2), [], None), VarDecl(Id(_2), StringType, None, None), FuncDecl(Id(_3), [], None), VarDecl(Id(_3), BoolType, None, None), VarDecl(Id(result), None, var, BinaryOp(+, BinaryOp(+, Id(_1), Id(_2)), Id(_3)))])

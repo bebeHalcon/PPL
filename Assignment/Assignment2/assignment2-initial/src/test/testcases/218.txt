@@ -1,0 +1,8 @@
+
+            ## Testcase 218
+            func main()
+            begin
+                number n1 <- not printString("Hello world")
+                number n2 <- print("Nhat") + print("Truong")
+            end
+        

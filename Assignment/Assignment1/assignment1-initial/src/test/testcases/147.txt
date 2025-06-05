@@ -1,0 +1,8 @@
+
+            func testcase147()
+            begin
+                for i until i < 10 by 1
+                for j until j < 10 by 1
+                for k until k < 10 by 1
+            end
+        

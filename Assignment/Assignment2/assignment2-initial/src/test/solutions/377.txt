@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main), [], Block([CallStmt(Id(Program), [ArrayLit(CallExpr(Id(VarDecl), [CallExpr(Id(Id), [Id(str)]), Id(None), StringLit(var), CallExpr(Id(StringLit), [StringLit(Hello world!)])]))])]))])

@@ -1,0 +1,6 @@
+
+            string str <- foo(a and b ... "\n\\" + ("\''"" ... true * not false))[2,2] ## String str
+            func main() begin ## Begin
+            end
+
+        

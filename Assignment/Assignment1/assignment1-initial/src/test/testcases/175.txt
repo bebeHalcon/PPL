@@ -1,0 +1,11 @@
+
+            func main()
+
+            begin
+
+                var a <- 1
+                variable <- - b <= c and foo([2] + e*p0 - 4%m) % 3 or c[2] ... "hi" > 3
+                error <- --c + not not not a <= b * [c, foo*(2-foo(1))] / 2 == false
+            end
+
+        

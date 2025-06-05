@@ -1,0 +1,9 @@
+
+            func test150()
+            begin
+                ## testcase 150
+                input <- "\n func test150() \n begin \n ## testcase 150 \n ...(something)... \n end"
+                expected <- "successful"
+                selfAssertTrue(TestParsertest(input, expected, 150))
+            end
+        

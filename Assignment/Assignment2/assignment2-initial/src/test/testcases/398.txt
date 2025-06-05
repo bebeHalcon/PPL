@@ -1,0 +1,8 @@
+## another expression
+func xor(bool a, bool b) return (a and not b) or (not a and b)
+func main() 
+begin 
+    
+    bool a<- xor(true,false) or xor(false,true) or not (xor(true,true))
+end
+

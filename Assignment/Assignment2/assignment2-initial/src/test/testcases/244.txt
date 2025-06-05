@@ -1,0 +1,8 @@
+
+            func            main()
+
+            begin   
+                        dynamic n
+            n <-    ((A or B and C + 10/2%3+1) <= (not(-1+foo(a+k+(p2-1)))))...(true != false)
+                    end
+        

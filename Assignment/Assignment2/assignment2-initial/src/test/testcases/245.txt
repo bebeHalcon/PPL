@@ -1,0 +1,7 @@
+
+            string str <- "Testcase"        ... "245"
+            func main()
+            begin
+                print(not [1,2,foo()] + 0 ... str - "" % 3 != 7)
+            end
+        

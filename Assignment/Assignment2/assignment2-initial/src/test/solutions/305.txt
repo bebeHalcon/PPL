@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(x), [VarDecl(Id(arr), ArrayType([2.0, 3.0, 4.0], StringType), None, None)], Block([VarDecl(Id(abc_dfg), ArrayType([2.3, 47.0], NumberType), None, Id(arr)), CallStmt(Id(main), [BinaryOp(+, NumLit(6.0), ArrayLit(NumLit(4.0), Id(arr)))])]))])

@@ -1,0 +1,9 @@
+## another for in if
+func main() 
+begin
+    if (1) number a <- 1
+    else for i until true by a if (1) number a <- 1
+    else for i until true by a if (1) number a <- 1
+    else for i until true by a if (1) number a <- 1
+    
+end

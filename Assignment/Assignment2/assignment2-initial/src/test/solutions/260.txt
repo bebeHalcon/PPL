@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main), [], Block([VarDecl(Id(a), None, dynamic, None), AssignStmt(Id(a), Id(a)), If((Id(a), Return()), [(Id(a), Return())], None), For(Id(a), Id(a), Id(a), Break), Continue, CallStmt(Id(a), []), Block([])]))])

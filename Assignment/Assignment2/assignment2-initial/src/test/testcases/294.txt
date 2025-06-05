@@ -1,0 +1,4 @@
+
+            dynamic d <- main()
+            var v <- [main(),main()]
+        

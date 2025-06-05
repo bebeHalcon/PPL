@@ -1,0 +1,20 @@
+
+            =	begin + dynamic 
+            -	*
+            return	/ - break
+            = 14 return else return 
+            <-
+            or *	+	elif	string >	bool	continue	77E5776 a1 or
+            <- == or continue	true /	continue	continue func
+            string	break "abcd"
+            >=	==
+            until	-	/ bool	begin
+            <- ( 
+            ) ==	by
+            and and	!=	if false
+            a1 >=	<=	(
+            %	not dynamic
+            * until	continue
+            for return	return	] <-	end	func <=	var or	> if	dynamic
+            break	begin dynamic	continue	127e-6561	begin
+        

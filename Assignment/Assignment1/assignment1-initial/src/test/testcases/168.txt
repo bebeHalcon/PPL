@@ -1,0 +1,14 @@
+
+            func main()     ## testcase 168
+
+            begin
+                if (c = 1)
+                if (c = 2) return
+                elif (c = 3)
+                elif (c = 4) return
+                if (c = 5)
+                if (c = 6) return
+                else return
+            
+            end
+        

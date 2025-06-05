@@ -1,0 +1,1 @@
+Program([VarDecl(Id(str), StringType, None, StringLit(Testcase 250\n)), FuncDecl(Id(main), [], None)])

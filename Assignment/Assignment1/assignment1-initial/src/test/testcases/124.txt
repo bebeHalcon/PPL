@@ -1,0 +1,9 @@
+## Start program
+            bool flag <- true
+            func main()
+            begin
+                if (flag) printString("Hello world")
+                else printString("Goodbye world")
+                else return
+            end
+        

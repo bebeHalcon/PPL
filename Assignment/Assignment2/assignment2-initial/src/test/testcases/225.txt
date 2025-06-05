@@ -1,0 +1,19 @@
+
+            func bubbleSort(number arr, number n)
+            begin
+                var i <- 0
+                for i until i < n - 1 by 1
+                begin
+                    var j <- 0
+                    for j until j < n - i - 1 by 1
+                    begin
+                        if (arr[j] > arr[j + 1]) 
+                        begin
+                            var temp <- arr[j]
+                            arr[j] <- arr[j + 1]
+                            arr[j + 1] <- temp
+                        end
+                    end
+                end
+            end
+        

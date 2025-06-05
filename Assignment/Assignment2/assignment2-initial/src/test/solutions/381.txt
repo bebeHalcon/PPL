@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(comment), [VarDecl(Id(comment), StringType, None, None)], Block([CallStmt(Id(print), [BinaryOp(..., StringLit(############################################################################################################################), StringLit())])]))])

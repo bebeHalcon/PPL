@@ -1,0 +1,11 @@
+
+            ## Testcase 249
+            func testcase249(number a, number b)
+
+                    func main()
+
+            begin
+                str <- foo(null, "...")...foo(1, 2, 3)
+            end
+
+        

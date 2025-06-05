@@ -1,0 +1,24 @@
+
+            func main()
+            begin
+                if (a)
+                    for a until a by a
+                        if (a)
+                            if (a)
+                                for a until a by a
+                                    if (a) return
+                                    elif (a) return
+                if (a)
+                    if (a)
+                        for a until a by a
+                            if (a) return
+                            elif (a) return
+                            else return
+                    else return
+                elif (a)
+                    for a until a by a
+                        return
+                if (a) return
+                else return
+            end
+        

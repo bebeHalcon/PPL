@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main), [], Block([For(Id(i), BinaryOp(=, Id(i), NumLit(100.0)), NumLit(1.0), For(Id(j), BinaryOp(=, Id(j), NumLit(100.0)), NumLit(1.0), For(Id(k), BinaryOp(=, Id(k), NumLit(100.0)), NumLit(1.0), If((Id(i), If((Id(j), If((Id(k), Return()), [], None)), [], None)), [], None))))]))])

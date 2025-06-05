@@ -1,0 +1,5 @@
+## 
+func boku_wa_kimi_no_koto_ga_suki_da_kedo_kimi_wa_boku_wo_betsu_ni_suki_janai_mitai(number main) begin       
+end
+func Dragon_Ball_Z(number Akira_Toriyama) 
+return "Son Goku"

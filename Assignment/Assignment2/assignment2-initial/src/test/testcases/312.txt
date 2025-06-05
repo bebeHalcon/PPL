@@ -1,0 +1,10 @@
+## multiple global variable declarations
+var x <- 6
+var y <- "7"
+var z <- true
+
+func main(number x, bool b) begin
+    print(x,y,z,t)
+end
+
+var t <- foo(x,y,z)

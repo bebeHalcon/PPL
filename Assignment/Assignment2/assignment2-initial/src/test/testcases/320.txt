@@ -1,0 +1,7 @@
+## multiple function declarations with empty parameter list
+func main()
+func main1()
+func main2()
+func main3() begin
+end
+func main4()

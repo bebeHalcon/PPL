@@ -1,0 +1,11 @@
+
+            number a[5] <- [0, 2, 4, 6, 8]
+            func main()
+            begin
+                var i = 2
+                for i = 1 until i < 5 by 1
+                begin
+                    print(a[i])
+                end
+            end
+        

@@ -1,0 +1,18 @@
+
+            func main()
+            begin
+                number a[2, 3] <- [[1, 2, 3], [4, 5, 6]]
+                ## array a
+                string b <- "Hello world"
+                var i <- 1
+                for i until i >= 10 by 1
+                begin
+                    printString(b)
+                    if (i > 5) break
+                    else continue
+
+                end
+                number e
+                e <- a[1, 2] - 3 * a[2, 1] + not a[2, 2]
+            end
+        

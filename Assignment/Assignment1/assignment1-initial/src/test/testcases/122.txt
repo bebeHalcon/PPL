@@ -1,0 +1,9 @@
+
+            func _1() return
+
+            
+            func 2() return ## invalid function name
+            func main() return
+
+
+        

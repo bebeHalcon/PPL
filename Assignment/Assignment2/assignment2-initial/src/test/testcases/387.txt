@@ -1,0 +1,26 @@
+## 
+number a <- 100
+
+func mod(number a, number b) return a % b
+func div (number a, number b) return a / b
+
+func main()
+begin
+    return mod(10,2)
+    return div(10,2)
+    return mod(10,2)
+    return div(10,2)
+    return mod(10,2)
+    return div(10,2)
+    return mod(10,2)
+    return div(10,2)
+    return mod(10,2)
+    return div(10,2)
+    return mod(10,2)
+    return div(10,2)
+    return mod(10,2)
+    return div(10,2)
+    v()
+    return mod(10,2)
+    return div(10,2)
+end

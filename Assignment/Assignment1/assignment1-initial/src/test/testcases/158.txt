@@ -1,0 +1,12 @@
+
+            func main()
+            begin
+                var __ <- __
+                for __ until _+_*_/_...not_ by __
+                    __ <- __
+                if  (_-_) return
+                elif (_-_) return
+                else return
+            end
+        
+        

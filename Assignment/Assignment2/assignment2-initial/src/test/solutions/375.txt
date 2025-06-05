@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(a), [VarDecl(Id(x), NumberType, None, None)], Block([Return(CallExpr(Id(a), [CallExpr(Id(a), [CallExpr(Id(a), [CallExpr(Id(a), [CallExpr(Id(a), [CallExpr(Id(a), [CallExpr(Id(a), [CallExpr(Id(a), [CallExpr(Id(a), [CallExpr(Id(a), [CallExpr(Id(a), [CallExpr(Id(a), [NumLit(0.0)])])])])])])])])])])])]))]))])

@@ -1,0 +1,6 @@
+func bar(string str)   
+begin ## begin
+var x <- y + "abc\'x"...6
+end
+
+number arr[7]

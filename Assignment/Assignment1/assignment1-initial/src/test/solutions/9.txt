@@ -1,0 +1,2 @@
+truefalse,0.23E+09,String,
+,a,<,b,<,c,<EOF>

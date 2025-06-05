@@ -1,0 +1,5 @@
+## number check
+func main()
+begin
+    v(000.00E+0013+-66.4789e-1)
+end

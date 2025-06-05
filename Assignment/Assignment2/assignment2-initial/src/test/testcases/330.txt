@@ -1,0 +1,11 @@
+ ## if in if (2)
+func main()   
+begin 
+    if (1) begin 
+        if (b) writeNumber(b)
+        elif (c) writeNumber(c)
+        elif (d) writeNumber(d)
+    end
+    elif (e) writeNumber(e)
+    else writeNumber(1)
+end

@@ -1,0 +1,7 @@
+## expresion in array lit 
+func foo(number a) begin
+if ((a=1) or (a=0)) return 1
+return a*foo(a)+3
+end
+
+number arr[2,3] <- [[1,2,3],[5*6,7%2,-3.13E-6*foo(4)*foo(foo(3))]]

@@ -1,0 +1,7 @@
+
+            func main() begin
+                f(2) <- 3
+
+            end
+        
+        

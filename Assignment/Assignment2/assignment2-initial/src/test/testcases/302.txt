@@ -1,0 +1,6 @@
+var a <- bcd + 456
+func foo(number x, string s)
+begin
+    y <- x + 4
+    s <- concat(s,"s")
+end

@@ -1,0 +1,1 @@
+string,number,a,=,0.02E+19,+,c,and,not,-,2,or,Error Token .

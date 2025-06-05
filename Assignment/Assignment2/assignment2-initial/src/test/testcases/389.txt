@@ -1,0 +1,5 @@
+## number check
+func main()
+begin
+    v(001.01E+0017+-66.4789e-8)
+end

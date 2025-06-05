@@ -1,0 +1,9 @@
+
+            func main()
+            begin
+                if (1)
+                    if (2) return
+                    elif (3) return
+                    else return
+            end
+        

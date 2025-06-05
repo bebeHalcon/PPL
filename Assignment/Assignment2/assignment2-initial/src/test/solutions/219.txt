@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main), [], Block([CallStmt(Id(print), [StringLit(Hello world)]), CallStmt(Id(print), [StringLit(Nhat)]), CallStmt(Id(print), [StringLit(Truong)])]))])

@@ -1,0 +1,18 @@
+## for in elif
+func min(number a, string b)
+begin  
+if (x <= false)
+begin 
+main(a,2,"b")
+x <- 8*8
+end
+elif (abc > "abc") 
+
+for id until id >= 4 by 1 loop1(arr[a(b),b(a)])
+loop2(arr[a(b)],b[2])
+
+func1(x) 
+begin
+func2(y)
+end
+end

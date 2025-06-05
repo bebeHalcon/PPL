@@ -1,0 +1,7 @@
+
+            func main() return
+            begin
+                number a <- 5
+                foo(a = 5)
+            end
+        

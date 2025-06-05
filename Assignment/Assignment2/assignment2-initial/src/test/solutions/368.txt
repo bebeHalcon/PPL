@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(predeclaration), [VarDecl(Id(x), NumberType, None, None)], None), FuncDecl(Id(main), [], Block([Return(Id(x)), VarDecl(Id(x), None, var, CallExpr(Id(Number), [Id(x)]))]))])

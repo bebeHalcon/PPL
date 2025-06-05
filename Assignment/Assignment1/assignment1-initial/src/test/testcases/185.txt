@@ -1,0 +1,5 @@
+
+            func main()
+            func 0()
+            return
+        

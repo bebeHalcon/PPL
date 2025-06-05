@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(foo), [VarDecl(Id(a), NumberType, None, None)], Block([VarDecl(Id(arr), None, var, NumLit(612.0)), AssignStmt(ArrayCell(Id(arr), [NumLit(6.0)]), StringLit(dr.Stone\r\b  \n\t\f' ))]))])

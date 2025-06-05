@@ -1,0 +1,13 @@
+
+            func main()
+            begin
+                var a <- 1
+                if (-a-1 = 0)
+                    if (a > 0) return
+                    else if (a < 0) return
+                        elif (2*a = 10) return
+                        else print(a)
+                elif (a = 0) return
+                else return
+            end
+        

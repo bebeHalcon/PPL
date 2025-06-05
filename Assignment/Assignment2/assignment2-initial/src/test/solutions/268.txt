@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(foo), [VarDecl(Id(n), NumberType, None, None)], Return(BinaryOp(*, Id(n), Id(n)))), FuncDecl(Id(main), [], Block([VarDecl(Id(n), NumberType, None, CallExpr(Id(readNumber), [])), CallStmt(Id(print), [CallExpr(Id(foo), [CallExpr(Id(foo), [CallExpr(Id(foo), [BinaryOp(%, Id(n), NumLit(8.0))])])])])]))])

@@ -1,0 +1,15 @@
+
+                    func        comb(number n, number k)
+            begin
+                if ((k = 0) or (k = n)) 
+                    return 1
+                else 
+                    return comb(n - 1, k - 1) + comb(n - 1, k)
+            end
+                    
+                    
+                var n <- readNumber()
+
+                var k <- readNumber()
+                print(comb(n, k))
+        

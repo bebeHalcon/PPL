@@ -1,0 +1,1 @@
+Program([VarDecl(Id(True), None, var, BooleanLit(True)), VarDecl(Id(False), None, var, BooleanLit(False))])

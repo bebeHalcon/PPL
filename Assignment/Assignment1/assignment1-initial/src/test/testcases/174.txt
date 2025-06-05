@@ -1,0 +1,13 @@
+
+            number pi <- 3.14159265358979323
+            func area(number r)
+            begin
+                return pi * r * r
+            end
+
+            func main()
+            begin
+                number r <- readNumber()
+                print(area(r))
+            end
+        

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main), [], Block([VarDecl(Id(s), StringType, None, StringLit(this test case is to check if it is work normally if ## in the string))]))])

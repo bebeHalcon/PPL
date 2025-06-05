@@ -1,0 +1,8 @@
+## fibonanci
+number res[100]
+func res(number x)
+    number res[99]
+func res(number y) begin
+    number res[98]
+end
+func res(number y) return res

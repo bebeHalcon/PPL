@@ -1,0 +1,5 @@
+
+            var a <- [hehe, (0), 2*3]
+            ## Testcase 198
+            var m <- a[2, 3, 1][0]
+        

@@ -1,0 +1,6 @@
+
+            func foo1(number a, string b, bool c)
+            func foo2(number a[5], string b[5], bool c[5])
+            func foo3(number a[6,7], string b[6,7], bool c[6,7])
+            func main()
+        

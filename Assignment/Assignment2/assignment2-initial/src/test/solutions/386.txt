@@ -1,0 +1,1 @@
+Program([VarDecl(Id(a), NumberType, None, NumLit(100.0)), FuncDecl(Id(main), [], Block([If((BooleanLit(False), Return(BooleanLit(False))), [], For(Id(id), NumLit(10.0), BooleanLit(True), Return(Id(a)))), Return(Id(a))]))])

@@ -1,0 +1,9 @@
+
+            ## testcase 295
+            ## func main()
+            ## begin
+            ## end
+            number n <- 295.e-2
+
+
+        

@@ -1,0 +1,12 @@
+
+            func main()
+            begin
+                number a <- readNumber()
+                if (a = 1)
+                if (a = 2) 
+                    printString("a = 2")
+                else if (a = 3) printString("a = 3") 
+                else 
+                    printString("a = 1")   
+            end
+        

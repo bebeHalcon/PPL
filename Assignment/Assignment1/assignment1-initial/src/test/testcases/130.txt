@@ -1,0 +1,7 @@
+
+            number f["Hello", 2] <- foo(0)
+            func main()
+            begin
+                print(f["true", 2])
+            end
+        

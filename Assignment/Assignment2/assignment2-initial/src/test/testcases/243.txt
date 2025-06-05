@@ -1,0 +1,9 @@
+
+            var i <- 0
+            var j <- i
+            var k <- j
+            func main()
+            begin
+                for i until i < 10 by 1 for j until j < i by 1 for k until k < j by 1 return
+            end
+        

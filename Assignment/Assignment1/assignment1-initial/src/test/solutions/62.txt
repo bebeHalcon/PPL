@@ -1,0 +1,4 @@
+
+,func,main,(,),
+,begin,
+,print,(,Illegal Escape In String: This is illegal escape sequence: \a

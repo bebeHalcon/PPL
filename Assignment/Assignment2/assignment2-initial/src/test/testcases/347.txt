@@ -1,0 +1,6 @@
+## simple for-statement
+func main() 
+begin 
+    for id until id >= 4 by 1.5555 
+    loop(arr[a(b),b[a]])
+end

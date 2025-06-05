@@ -1,0 +1,8 @@
+
+            ## Testcase 177
+            dynamic i
+            func main()
+            begin
+                print(i + 2 % 3 - not 2 = _ / (2.3E-19 * n))
+            end
+        

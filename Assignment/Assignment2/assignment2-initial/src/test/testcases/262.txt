@@ -1,0 +1,11 @@
+
+            func main()
+            begin
+                string a <- input()
+                if (a != None)
+                    if (a == "") return
+                    else if (a == "exit") return
+                         elif (a == "print") return
+                         else print(a)
+            end
+        

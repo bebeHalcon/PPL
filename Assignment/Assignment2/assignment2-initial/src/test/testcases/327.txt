@@ -1,0 +1,12 @@
+ ## multiple consecutive if-statements without elif and else
+func main()   
+begin 
+    if (a) 
+    if (b)
+    if (c)
+    if (d)
+    if (e)
+    if (f)
+    begin
+    end
+end

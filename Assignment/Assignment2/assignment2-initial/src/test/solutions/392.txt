@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(True), [VarDecl(Id(_), NumberType, None, None)], Block([CallStmt(Id(writeString), [StringLit(I won't say you'll definitely be able to do it if you don't give up. But if you do, then there'll definitely be nothing.)])]))])

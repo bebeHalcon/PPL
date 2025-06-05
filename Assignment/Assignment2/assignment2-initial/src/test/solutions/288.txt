@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(test288), [], Block([AssignStmt(Id(input), StringLit(func test288() \n begin \n end)), AssignStmt(Id(expect), StringLit(str(Program([FuncDecl(Id('test288'),[],Block([]))]))), CallStmt(Id(assertTrue), [CallExpr(Id(test), [Id(input), Id(expect), NumLit(288.0)])])]))])

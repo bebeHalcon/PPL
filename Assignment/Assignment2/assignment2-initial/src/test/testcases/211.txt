@@ -1,0 +1,14 @@
+
+            func foo(number a) begin
+                if ((a=1) or (a=0)) return 1
+                return a*foo(a)
+            end
+
+            number arr[2,3] <- [[1,2,3],[4.E+5 + 6.e-7 * foo(8) and 9]]
+
+            func main()
+            begin
+                number a <- arr[foo(0) = 1,foo(2)%3-4]*(not foo(5) and foo(6))
+                return
+            end
+        

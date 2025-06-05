@@ -1,0 +1,16 @@
+
+            func countPos(number arr[10e+9], number n)
+            begin
+                number res <- 0
+                var i <- 0
+                for i until i < n by 1
+                    if (arr[i] > 0) res <- res + 1
+                return res
+            end
+            
+            func main()
+            begin
+                number arr[5] <- [1, -2, 3, -4, 5]
+                print(countPos(arr, 5))
+            end
+        

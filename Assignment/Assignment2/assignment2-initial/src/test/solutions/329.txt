@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main), [], Block([If((NumLit(1.0), If((Id(b), CallStmt(Id(writeNumber), [Id(b)])), [(Id(c), CallStmt(Id(writeNumber), [Id(c)])), (Id(d), CallStmt(Id(writeNumber), [Id(d)])), (Id(e), CallStmt(Id(writeNumber), [Id(e)]))], CallStmt(Id(writeNumber), [NumLit(1.0)]))), [], None)]))])

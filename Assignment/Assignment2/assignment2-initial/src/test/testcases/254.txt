@@ -1,0 +1,16 @@
+
+            func main() begin
+                bool b <- true and not false
+                if (1)
+                    if (2)
+                        for _3 until 4 by 5 b <- 7
+                    elif (8)
+                        if (9)
+                            for _10 until 11 by 12
+                                if (13) break
+                                else for _14 until 15 by 16
+                                    if (17) continue
+                                    else return
+                        elif (18) print()
+            end
+        

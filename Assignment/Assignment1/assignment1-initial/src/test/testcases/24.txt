@@ -1,0 +1,2 @@
+string number a = 0.02E+19 + c and not -2 or .48e-69
+        b <- c + a - e ... d

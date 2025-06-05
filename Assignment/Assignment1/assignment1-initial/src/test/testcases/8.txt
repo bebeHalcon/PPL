@@ -1,0 +1,10 @@
+
+        number fib[50] <- [0, 1]
+        func createFib()
+        begin
+            var i <- 2
+            for i until i < 50 by 1
+                fib[i] <- fib[i - 1] + fib[i - 2]
+            end
+        end
+        

@@ -1,0 +1,6 @@
+
+            func main()
+            begin
+                return (not print() and - 2.e+3 ... foo(-4.e-2) < hoangnhat) ... [true,"true",0e0]%8
+            end
+        

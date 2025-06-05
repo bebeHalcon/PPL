@@ -1,0 +1,10 @@
+
+            func foo(number n)
+            begin
+                if (n != 1 and foo(n - 1) = 0) return n*foo(n-1) ## != and = are unasociated
+                else return 1 + false ## Comment
+
+            end
+            number n <- foo(5)
+
+        

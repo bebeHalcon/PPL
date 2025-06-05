@@ -1,0 +1,7 @@
+
+        func main()
+        begin
+            string str <- "Happy" ... "New" ... "Year"
+            print(a)
+        end
+        

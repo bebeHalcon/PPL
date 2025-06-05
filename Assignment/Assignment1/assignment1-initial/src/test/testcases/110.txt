@@ -1,0 +1,17 @@
+
+            func gcd(number a, number b)
+            begin
+                if (a > b) return gcd(b, a%b)
+                elif (a < b) return gcd(b%a, a)
+                else return a
+            end
+
+
+
+            func main()
+            begin
+                number a <- readNumber()
+                number b <- readNumber()
+                print(gcd(a, b))
+            end
+        

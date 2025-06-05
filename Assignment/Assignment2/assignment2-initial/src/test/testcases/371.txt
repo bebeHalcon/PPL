@@ -1,0 +1,14 @@
+func super_saiyan()
+begin
+    super_saiyan()
+    super_saiyan(super_saiyan())
+    super_saiyan(super_saiyan(super_saiyan()))
+    super_saiyan(super_saiyan(super_saiyan(super_saiyan())))
+    super_saiyan(super_saiyan(super_saiyan(super_saiyan(super_saiyan()))))
+    super_saiyan(super_saiyan(super_saiyan(super_saiyan(super_saiyan(super_saiyan())))))
+    super_saiyan(super_saiyan(super_saiyan(super_saiyan(super_saiyan(super_saiyan(super_saiyan()))))))
+    super_saiyan(super_saiyan(super_saiyan(super_saiyan(super_saiyan(super_saiyan(super_saiyan(super_saiyan())))))))
+    super_saiyan(super_saiyan(super_saiyan(super_saiyan(super_saiyan(super_saiyan(super_saiyan(super_saiyan(super_saiyan()))))))))
+    super_saiyan(super_saiyan(super_saiyan(super_saiyan(super_saiyan(super_saiyan(super_saiyan(super_saiyan(super_saiyan(super_saiyan())))))))))
+
+end

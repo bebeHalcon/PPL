@@ -1,0 +1,1 @@
+Program([VarDecl(Id(pi), NumberType, None, NumLit(3.141592653589793)), FuncDecl(Id(area), [VarDecl(Id(r), NumberType, None, None)], Block([Return(BinaryOp(*, BinaryOp(*, Id(pi), Id(r)), Id(r)))])), FuncDecl(Id(main), [], Block([VarDecl(Id(r), NumberType, None, CallExpr(Id(readNumber), [])), CallStmt(Id(print), [CallExpr(Id(area), [Id(r)])])]))])

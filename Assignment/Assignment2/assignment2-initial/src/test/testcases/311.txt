@@ -1,0 +1,13 @@
+## multiple empty blocks
+func main(number x, bool b) begin
+begin
+end
+begin
+begin
+end
+begin
+end
+end
+begin
+end
+end

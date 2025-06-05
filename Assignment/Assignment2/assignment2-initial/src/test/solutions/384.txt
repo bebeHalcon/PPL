@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main), [], Block([AssignStmt(Id(newline), CallExpr(Id(newline), [NumLit(0.0)])), Return()]))])

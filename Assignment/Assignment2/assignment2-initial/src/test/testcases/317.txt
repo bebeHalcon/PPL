@@ -1,0 +1,6 @@
+## array assignment with string
+func foo(number a) begin
+    string arr[7]
+    arr[6] <- "'4+6'""
+end
+

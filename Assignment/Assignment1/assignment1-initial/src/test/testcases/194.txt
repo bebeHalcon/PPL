@@ -1,0 +1,7 @@
+
+            string b <- -___-___-___-___-__
+            number a <- (p*-----------id---------q)
+
+            func main()
+                return a+b
+        

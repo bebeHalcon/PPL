@@ -1,0 +1,9 @@
+
+            func main()
+            begin
+                number a
+                a <- a * b - c + not 1 and 2 + 3 ... c
+                var m
+
+            end
+        

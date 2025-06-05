@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(bar), [VarDecl(Id(str), StringType, None, None)], Block([VarDecl(Id(x), None, var, BinaryOp(..., BinaryOp(+, Id(y), StringLit(abc\'x)), NumLit(6.0)))])), VarDecl(Id(arr), ArrayType([7.0], NumberType), None, None)])

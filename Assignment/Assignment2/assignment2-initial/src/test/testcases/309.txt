@@ -1,0 +1,2 @@
+## return without block
+func kid1412(number kuroba[14,12]) return kaitou

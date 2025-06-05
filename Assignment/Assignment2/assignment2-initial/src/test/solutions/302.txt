@@ -1,0 +1,1 @@
+Program([VarDecl(Id(a), None, var, BinaryOp(+, Id(bcd), NumLit(456.0))), FuncDecl(Id(foo), [VarDecl(Id(x), NumberType, None, None), VarDecl(Id(s), StringType, None, None)], Block([AssignStmt(Id(y), BinaryOp(+, Id(x), NumLit(4.0))), AssignStmt(Id(s), CallExpr(Id(concat), [Id(s), StringLit(s)]))]))])

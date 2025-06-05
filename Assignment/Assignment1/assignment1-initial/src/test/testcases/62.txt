@@ -1,0 +1,6 @@
+
+        func main()
+        begin
+            print("This is illegal escape sequence: \a")
+        end
+        

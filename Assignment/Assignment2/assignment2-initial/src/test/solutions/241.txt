@@ -1,0 +1,1 @@
+Program([VarDecl(Id(arr), ArrayType([0.3, 3000000000.0], BoolType), None, Id(Nhat)), FuncDecl(Id(main), [], Block([If((ArrayCell(Id(arr), [StringLit(Nhat)]), CallStmt(Id(print), [])), [], Break)]))])

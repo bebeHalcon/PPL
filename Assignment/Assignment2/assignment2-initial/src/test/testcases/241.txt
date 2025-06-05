@@ -1,0 +1,8 @@
+
+            bool arr[0.3, 3e+9] <- Nhat
+            func main()
+            begin
+                if (arr["Nhat"]) print()
+                else break
+            end
+        

@@ -1,0 +1,5 @@
+
+            func ## Comment main() ## Comment begin
+                number a <- 1
+            end
+        

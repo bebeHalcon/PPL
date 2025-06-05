@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main), [], Block([])), FuncDecl(Id(main), [], Block([])), FuncDecl(Id(main), [], Block([]))])

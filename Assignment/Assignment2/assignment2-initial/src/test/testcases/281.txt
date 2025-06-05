@@ -1,0 +1,21 @@
+
+            func main()
+            begin
+                for _ until _ by _
+                    if (_)
+                        for _ until _ by _
+                            if (_) return
+                            elif (_) return
+                            else if (_)
+                                    for _ until _ by _
+                                        if (_) return
+                                        elif (_) return
+                                        else return
+                                elif (_) return
+                                else return
+                    elif (_) for _ until _ by _
+                            if (_) return
+                            elif (_) return
+                            else return
+            end
+        

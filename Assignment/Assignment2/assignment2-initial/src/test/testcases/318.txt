@@ -1,0 +1,6 @@
+## string with escaped sequences
+func foo(number a) begin
+    var arr <- 612
+    arr[6] <- "dr.Stone\r\b  \n\t\f' "
+end
+

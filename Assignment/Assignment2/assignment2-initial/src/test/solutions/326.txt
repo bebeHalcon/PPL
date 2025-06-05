@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main), [VarDecl(Id(x), NumberType, None, None)], Block([If((BinaryOp(and, BooleanLit(True), BooleanLit(True)), AssignStmt(Id(x), BinaryOp(+, NumLit(6.0), BinaryOp(*, NumLit(7.0), CallExpr(Id(True), [Id(x)]))))), [], Block([CallStmt(Id(writeBool), [Id(x)])]))]))])

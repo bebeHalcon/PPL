@@ -1,0 +1,8 @@
+
+            func test149()
+            begin
+                input <- "\n func test149() \n begin \n ## testcase 149 \n ...(something)... \n end"
+                expected <- "successful"
+                self->assertTrue(TestParser->test(input, expected, 149))
+            end
+        

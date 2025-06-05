@@ -1,0 +1,1 @@
+Program([VarDecl(Id(d), None, dynamic, CallExpr(Id(main), [])), VarDecl(Id(v), None, var, ArrayLit(CallExpr(Id(main), []), CallExpr(Id(main), [])))])

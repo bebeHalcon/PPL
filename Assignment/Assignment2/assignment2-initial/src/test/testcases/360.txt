@@ -1,0 +1,5 @@
+## multiple nested for-statements
+func main() 
+begin
+    for i until i = 100 by 1 for j until j = 100 by 1 for k until k = 100 by 1 for m until m = 100 by 1 for n until n = 100 by 1 return
+end

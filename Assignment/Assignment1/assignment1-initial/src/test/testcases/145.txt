@@ -1,0 +1,5 @@
+
+            func main()     ## Main 1
+            func main()     ## Main 2
+            func main()     ## Main 3
+        

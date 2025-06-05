@@ -1,0 +1,14 @@
+func main() 
+
+begin 
+
+
+
+## Several newlines
+
+
+newline <- newline(0)
+
+
+return
+end

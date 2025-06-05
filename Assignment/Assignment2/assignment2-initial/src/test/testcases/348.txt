@@ -1,0 +1,16 @@
+## simple for-statement
+func main() 
+begin 
+    for id until id >= 4 by 1.5555 if (6) b <- 7 + a
+        elif (7) if (8) return
+        elif (9) begin
+            if (10) var x <- true
+            else print(abc)
+            return
+        end
+        elif (11) return 7
+        else return 8
+    else return 9
+
+    
+end

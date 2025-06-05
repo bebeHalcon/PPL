@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main), [], Block([VarDecl(Id(a), NumberType, None, CallExpr(Id(readNumber), [])), If((BinaryOp(=, Id(a), NumLit(1.0)), If((BinaryOp(=, Id(a), NumLit(2.0)), CallStmt(Id(printString), [StringLit(a = 2)])), [], If((BinaryOp(=, Id(a), NumLit(3.0)), CallStmt(Id(printString), [StringLit(a = 3)])), [], CallStmt(Id(printString), [StringLit(a = 1)])))), [], None)]))])

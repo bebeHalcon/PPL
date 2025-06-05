@@ -1,0 +1,11 @@
+## another testcase with if
+func main() 
+begin
+    if (1) 
+    if (2) 
+    if (3) break
+    else continue
+    else break
+    else continue
+
+end

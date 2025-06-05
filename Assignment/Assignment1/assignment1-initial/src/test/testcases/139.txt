@@ -1,0 +1,6 @@
+
+
+            ## Testcase 139
+
+            number n <- "abc" ... "def" = "fed" ... "cba"   ## Assoc check
+        

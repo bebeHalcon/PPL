@@ -1,0 +1,7 @@
+## 
+func main() 
+begin 
+    number a[2e1,3e2,4e3,5e4,6e5] <- a[b[c[d[e[f[g[h]]]]]]]
+    a[b[c[d[e[f[g[h]]]]]]] <- a(b(c(d(e(f(g(h)))))))
+end
+

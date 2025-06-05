@@ -1,0 +1,8 @@
+
+            func main()
+            begin
+                print("Testcase 272")
+                print("input = func main()")
+                print("expect = str(Program([FuncDecl(Id('"main'"),[])])")
+            end
+        

@@ -1,0 +1,4 @@
+
+            number a <- (not 3%2)[0]
+            var b <- 1
+        

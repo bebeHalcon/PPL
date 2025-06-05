@@ -1,0 +1,2 @@
+string,str,<-,This is ,
+,string,newstr,<-,abc,...,Nhat's testcase.,<EOF>

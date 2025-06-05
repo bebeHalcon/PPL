@@ -1,0 +1,15 @@
+ ## if in for
+func ___(number _) begin       
+if (x <= _) begin 
+        foo(a,2,"b")
+    end
+for ____ until ____ * 2 by "abc" 
+if (_) begin   
+    end
+    _(boolean,_) 
+    begin
+
+    _(___,__,_____ ) 
+    __ <- ____ * _ + __ - _(__,___)[_,[__,8],____]
+end
+end

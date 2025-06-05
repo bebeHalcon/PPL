@@ -1,0 +1,11 @@
+ ## if in if (4)
+func main()   
+begin 
+    if (a) a()
+    elif (b) b()
+    elif (c) c()
+    else if (d) d()
+    elif (e) e()
+    elif (f) f()
+    else g()
+end

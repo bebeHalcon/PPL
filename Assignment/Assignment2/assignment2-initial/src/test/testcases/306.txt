@@ -1,0 +1,10 @@
+## block in block
+func ___(number arr[2])
+begin
+    number abc_dfg[2.3,47] <- arr(487,456,9,4*4,6-7,3 % 2)
+    begin
+        writeString(4+8+"abc"/true*__(abc_dfg))
+    end
+
+    x <- 6 - function(x[4,7.0])
+end

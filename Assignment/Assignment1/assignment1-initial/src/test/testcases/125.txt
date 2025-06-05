@@ -1,0 +1,10 @@
+
+            string str1 <- "Hoang" ... "Nhat"
+            string str2 <- "Hoang" ... "Nhat" ... "Truong"
+
+            func main()
+            begin
+                print(str1)
+                print(str2)
+            end
+        

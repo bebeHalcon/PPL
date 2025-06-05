@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main), [], Block([VarDecl(Id(a), NumberType, None, NumLit(5.0)), If((BinaryOp(<, Id(a), NumLit(10.0)), CallStmt(Id(print), [StringLit(a is less than 10)])), [], CallStmt(Id(print), [StringLit(a is greater than or equal to 10)]))]))])

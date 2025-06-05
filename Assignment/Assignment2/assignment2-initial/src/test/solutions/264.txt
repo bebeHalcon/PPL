@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(foo), [], Return(ArrayLit(ArrayLit(NumLit(2.0), NumLit(3.0)), ArrayLit(NumLit(4.0)), NumLit(5.0), ArrayLit(NumLit(6.0), NumLit(7.0), NumLit(8.0))))), FuncDecl(Id(main), [], Block([VarDecl(Id(n), NumberType, None, CallExpr(Id(readNumber), [])), Return(ArrayCell(CallExpr(Id(foo), []), [Id(n)]))]))])

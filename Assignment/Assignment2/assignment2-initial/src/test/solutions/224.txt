@@ -1,0 +1,1 @@
+Program([VarDecl(Id(b), BoolType, None, BinaryOp(..., BinaryOp(and, BinaryOp(*, CallExpr(Id(foo), [BinaryOp(*, CallExpr(Id(foo), [BinaryOp(*, CallExpr(Id(foo), [NumLit(2.0)]), NumLit(2.0))]), NumLit(3.0))]), NumLit(4.0)), StringLit(Hoang)), StringLit(Nhat)))])

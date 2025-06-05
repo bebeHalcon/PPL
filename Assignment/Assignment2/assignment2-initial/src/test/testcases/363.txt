@@ -1,0 +1,11 @@
+## another testcase with if
+func main() 
+begin
+    if (1) number a <- 1
+    else number a <- 2
+    if (2) number a <- 2
+    else number a <- 3
+    if (3) number a <- 3
+    else number a <- 4
+    
+end

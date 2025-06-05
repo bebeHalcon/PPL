@@ -1,0 +1,15 @@
+
+            func main()
+            begin
+                var a <- 1
+                var b <- 2
+                var c <- 3
+                if ((a < b) and (b < c)) printString("a < b < c")
+                elif ((a < c) and (c < b)) printString("a < c < b")
+                elif ((b < a) and (a < c)) printString("b < a < c")
+                elif ((b < c) and (c < a)) printString("b < c < a")
+                elif ((c < a) and (a < b)) printString("c < a < b")
+                elif (c < b) and (b < a) printString("c < b < a")
+                else printString("a = b = c")
+            end
+        

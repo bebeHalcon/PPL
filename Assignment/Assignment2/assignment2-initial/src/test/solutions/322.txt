@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main), [], Block([VarDecl(Id(new), None, var, CallExpr(Id(__init__), [Id(self), Id(x), Id(y)])), VarDecl(Id(x), None, dynamic, NumLit(6.0))])), VarDecl(Id(xxx), NumberType, None, None)])

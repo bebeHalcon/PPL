@@ -1,0 +1,4 @@
+## ANTLR-like check
+func antlr() begin
+    print("(ID | func_call_expr) OPEN_IDX expr_prime CLOSE_IDX;")
+end

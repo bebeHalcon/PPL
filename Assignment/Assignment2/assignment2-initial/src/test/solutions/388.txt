@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main), [], Block([CallStmt(Id(v), [BinaryOp(+, NumLit(0.0), UnaryOp(-, NumLit(6.64789)))])]))])

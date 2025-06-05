@@ -1,0 +1,6 @@
+
+            var a <- (((((((((((2)))))))))))
+            number b[2] <- [a, [1, 2]]
+            dynamic c[2, 3] <- [[a, b, 3], [true, foo(2), "abc"]]
+            func main()
+        

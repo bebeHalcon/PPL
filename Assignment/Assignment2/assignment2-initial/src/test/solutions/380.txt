@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(antlr), [], Block([CallStmt(Id(print), [StringLit((ID | func_call_expr) OPEN_IDX expr_prime CLOSE_IDX;)])]))])

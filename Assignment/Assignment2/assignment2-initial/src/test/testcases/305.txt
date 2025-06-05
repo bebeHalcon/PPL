@@ -1,0 +1,6 @@
+
+func x(string arr[2,3,4])
+begin
+    number abc_dfg[2.3,47] <- arr
+    main(6+  [4,arr])
+end

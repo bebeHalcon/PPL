@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main), [], Return(NumLit(1.0))), FuncDecl(Id(main), [], Return(NumLit(2.0))), FuncDecl(Id(main), [], Return(NumLit(3.0))), FuncDecl(Id(main), [], Return(NumLit(4.0))), FuncDecl(Id(main), [], Return(NumLit(5.0)))])

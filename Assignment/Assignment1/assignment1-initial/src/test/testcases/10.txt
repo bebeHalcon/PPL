@@ -1,0 +1,1 @@
+"This is a string containing escape characters: \n \t \b \r \f \' \\" a + b = 0.02E-14 ##__OK__

@@ -1,0 +1,9 @@
+
+        number arr[1, 2] <- [2, 3]
+        func main()
+        begin
+            if (arr[1] > 2)
+                if (arr[0] < 2) print("OK")
+                else print ("Not OK")
+        end
+        

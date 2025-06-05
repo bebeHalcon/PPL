@@ -1,0 +1,4 @@
+## test expression
+func kid1412(number ranma1over2[2,8.1]) begin
+    return (1 + 2.4) /  false * (3 -4 % (-6)) - arr([6,arr[6]],6,[6])
+end

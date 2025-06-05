@@ -1,0 +1,6 @@
+## consecutive same function decl with return-statements
+func main() return 1
+func main() return 2
+func main() return 3
+func main() return 4
+func main() return 5

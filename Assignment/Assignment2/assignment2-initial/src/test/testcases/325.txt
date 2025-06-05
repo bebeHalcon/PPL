@@ -1,0 +1,8 @@
+ ## simply check if-statement
+func main(number x)   
+begin 
+var y <- [0,1,2]
+    if (12 +((x + 7) >= 9- 6*  9)) begin
+        readNumber(y)
+    end
+end

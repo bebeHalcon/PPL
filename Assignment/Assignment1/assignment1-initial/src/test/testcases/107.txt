@@ -1,0 +1,11 @@
+
+            bool a[2, 3] <- [[true, false, true], [false, true, false]] ## array a
+            number b[2, 3] <- [[1, 2, 3], [4, 5, 6]] ## array b
+            string str <- "Hello world" ## string str
+            func main()
+            begin
+                print(a[1, 2])
+                print(b[1, 2])
+                print(str)
+            end
+        

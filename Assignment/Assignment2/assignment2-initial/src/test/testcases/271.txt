@@ -1,0 +1,7 @@
+
+            func main()
+            begin
+                number arr[3,4]
+                arr[foo(1+2),-3*main(),not (3)] <- exp(2)
+            end
+        

@@ -1,0 +1,5 @@
+ ## function call but looks like output
+func main() 
+begin
+    Program([VarDecl(Id(str), None, "var", StringLit("Hello world!"))])
+end

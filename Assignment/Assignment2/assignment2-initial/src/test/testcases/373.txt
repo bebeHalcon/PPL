@@ -1,0 +1,2 @@
+## super boolean expression
+func tion() return not not not ----a and b + 6 ----5 +8 or not not not x / true and 6 or not not (not y and 7 % false or "1+2")

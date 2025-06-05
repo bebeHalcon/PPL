@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(foo), [VarDecl(Id(a), NumberType, None, None)], Return(BinaryOp(+, Id(a), NumLit(1.0)))), VarDecl(Id(a), ArrayType([2.0, 3.0], NumberType), None, ArrayLit(ArrayLit(BinaryOp(+, NumLit(1.0), NumLit(2.0)), NumLit(3.0), StringLit(abc), CallExpr(Id(foo), [NumLit(4.0)])), ArrayLit(BooleanLit(True), BooleanLit(False), BooleanLit(True))))])

@@ -1,0 +1,5 @@
+## string using ## 
+func main()
+begin 
+    string s<-"this test case is to check if it is work normally if ## in the string"
+end

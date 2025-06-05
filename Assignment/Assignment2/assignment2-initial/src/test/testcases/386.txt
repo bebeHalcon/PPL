@@ -1,0 +1,11 @@
+
+number a <- 100
+
+
+func main()
+begin
+    if (false) return false
+    else for id until 10 by true
+    return a
+    return a
+end

@@ -1,0 +1,7 @@
+
+            func _()
+            begin
+                Break <- Continue()
+                [2] <- 3
+            end
+        

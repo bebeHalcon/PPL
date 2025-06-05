@@ -1,0 +1,7 @@
+
+            func main()
+            begin
+                var i <- ((not a ... b <= 2) + ((3*[2,foo()]-1) and (-2 or foo())) + 1)
+                print(i)
+            end
+        

@@ -1,0 +1,10 @@
+## multiple predeclarations
+func a(string a)
+func b(string b)
+func c(string c)
+func d(string d) return a
+func e(string e) return b
+func f(string f) return c
+func g(string g) return d
+func h(string h) begin
+end

@@ -1,0 +1,11 @@
+
+            func foo()
+            begin
+                number arr[2,3,4] <- [[1,2,3],["abc","def","ghi"],[false,true,false]]
+                return arr
+            end
+            func main()
+            begin
+                foo()[2,3,4] <- 5
+            end
+        

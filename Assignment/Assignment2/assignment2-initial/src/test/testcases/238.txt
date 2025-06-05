@@ -1,0 +1,8 @@
+
+            number a[3,3] <- [[0.0E-1, "76QuangNgai", false], [-1, -2, -3], foo(5)*7/5%9 and not 11]
+            ## Testcase 238
+            func main()
+            begin
+                print(a[1, 2], a[2, 1], a[3, 3])
+            end
+        

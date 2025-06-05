@@ -1,0 +1,7 @@
+
+            func main()
+            begin
+                ## testcase 289
+                hi <- "hi"
+            end
+        

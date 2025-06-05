@@ -1,0 +1,9 @@
+
+            func _1()
+            number _1
+            func _2()
+            string _2
+            func _3()
+            bool _3
+            var result <- _1 + _2 + _3
+        

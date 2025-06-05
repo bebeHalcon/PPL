@@ -1,0 +1,2 @@
+,,bool,+,func,>,true,if,>=,==,and,<=,else,
+,...,until,string,for,*,),<-,number,by,],var,dynamic,%,begin,-,[,<,return,continue,or,elif,(,!=,break,false,/,<EOF>

@@ -1,0 +1,11 @@
+func main()
+                begin
+                    number u <- 1e4
+                    for u until u < 0 by -1
+                    begin
+                        if (u % 5 = 0) writeString(u ... " is even")
+                        elif writeString(u ... " is odd")
+                        else break
+                    end
+                end
+        

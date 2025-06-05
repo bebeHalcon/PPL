@@ -1,0 +1,7 @@
+
+            func main()
+            begin
+                number a[0] <- []
+
+            end
+        

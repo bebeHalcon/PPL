@@ -1,0 +1,8 @@
+
+            func main()
+            begin
+                number n1 <- -4.86e9
+                number n2 <- 486.e-9
+                number n3 <- 4-8-6-9
+            end
+        

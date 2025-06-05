@@ -1,0 +1,7 @@
+
+            func main()
+            begin
+                foo((a - b < 2) or (1 ... 2) and 3 + not 4)
+                print("")
+            end
+        

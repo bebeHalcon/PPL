@@ -1,0 +1,7 @@
+
+            func foo(var a, number b)
+            begin
+                if (a = 1) return 1
+                else return a*foo(a)
+            end
+        

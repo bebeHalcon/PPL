@@ -1,0 +1,7 @@
+## return before another statements
+func predeclaration(number x)
+func main()
+begin
+    return x
+    var x <- Number(x)
+end

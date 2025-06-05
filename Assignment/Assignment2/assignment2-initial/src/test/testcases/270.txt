@@ -1,0 +1,7 @@
+
+            func main()
+            begin
+                ### Test expression
+                dynamic d <- [2,3] or true and not false + 2.e3 * "Nhat" ... (00 <= 2) == (3>2)
+            end
+        

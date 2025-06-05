@@ -1,0 +1,5 @@
+## Float number literal
+func main()
+begin
+    writeNumber(1.e+5)
+end

@@ -1,0 +1,1 @@
+Program([VarDecl(Id(str), ArrayType([2.2, 3.3], StringType), None, ArrayLit(BinaryOp(..., StringLit(Hoang), StringLit(Nhat)), StringLit(Truong)))])

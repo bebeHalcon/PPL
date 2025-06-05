@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main), [], Return(ArrayLit(ArrayLit(ArrayLit(ArrayCell(CallExpr(Id(main), []), [NumLit(2.0)]))))))])

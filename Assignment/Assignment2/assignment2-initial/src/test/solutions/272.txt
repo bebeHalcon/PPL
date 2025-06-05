@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main), [], Block([CallStmt(Id(print), [StringLit(Testcase 272)]), CallStmt(Id(print), [StringLit(input = func main())]), CallStmt(Id(print), [StringLit(expect = str(Program([FuncDecl(Id('"main'"),[])]))])]))])

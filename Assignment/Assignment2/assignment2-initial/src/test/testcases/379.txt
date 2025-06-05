@@ -1,0 +1,8 @@
+## something
+func alo_alo_1_2_3_4(string x) begin
+    if (1 + 8 == 2) return
+    else if (true or True and not TRUE) continue
+    elif (false or False and not FALSE) break
+    else return
+    return
+end

@@ -1,0 +1,8 @@
+
+            func foo(number n) return n*n
+            func main()
+            begin
+                number n <- readNumber()
+                print(foo(foo(foo(n%8))))
+            end
+        

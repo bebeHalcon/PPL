@@ -1,0 +1,4 @@
+string str <---- "##Comment?'""
+        func begin          hello
+                    2ee+33 cccc 00009.0004e-222
+        ## Testcase 78

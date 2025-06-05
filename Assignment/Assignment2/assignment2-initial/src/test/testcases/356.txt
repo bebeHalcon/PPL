@@ -1,0 +1,47 @@
+## Merge sort with zcode
+func merge(number arr[100], number left, number mid, number right)
+begin
+    number i
+    number j
+    number k
+    number n1 <- mid - left + 1
+    number n2 <- right - mid
+    number L[100]
+    number R[100]
+
+    for i until i < n1 by 1
+        L[i] <- arr[left + i]
+
+    for j until j < n2 by 1
+        R[j] <- arr[mid + 1 + j]
+
+    i <- 0
+    j <- 0
+    k <- left
+
+    for k until k <= right by 1
+    begin
+        if ((i < n1) and (j >= n2) or (L[i] <= R[j]))
+        begin
+            arr[k] <- L[i]
+            i <- i + 1
+        end
+        else begin
+            arr[k] <- R[j]
+            j <- j + 1
+        end
+    end
+end
+
+func mergeSort(number arr[100], number left, number right)
+begin
+    if (left < right)
+    begin
+        number mid <- (left + right) / 2
+
+        mergeSort(arr, left, mid)
+        mergeSort(arr, mid + 1, right)
+
+        merge(arr, left, mid, right)
+    end
+end

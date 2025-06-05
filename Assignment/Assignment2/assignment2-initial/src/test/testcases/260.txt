@@ -1,0 +1,14 @@
+
+            func main()
+            begin
+                dynamic a
+                a <- a
+                if (a) return
+                elif (a) return
+                for a until a by a break
+                continue
+                a()
+                begin
+                end
+            end
+        

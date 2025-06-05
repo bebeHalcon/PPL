@@ -1,0 +1,5 @@
+
+            bool b <- getBool(foo(1), foo(getBool(foo(2),foo()),getBool(1)), getBool(foo(1),getBool(foo(1))))
+
+            dynamic a
+        

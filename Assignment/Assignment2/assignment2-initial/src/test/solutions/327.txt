@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main), [], Block([If((Id(a), If((Id(b), If((Id(c), If((Id(d), If((Id(e), If((Id(f), Block([])), [], None)), [], None)), [], None)), [], None)), [], None)), [], None)]))])

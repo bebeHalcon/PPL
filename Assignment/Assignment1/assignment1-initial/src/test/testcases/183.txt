@@ -1,0 +1,4 @@
+
+            number n <- not(a + b (foo(b, c, d)/true ... 1) - continue)
+            func main() return
+        

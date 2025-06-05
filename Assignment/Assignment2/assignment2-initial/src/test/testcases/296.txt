@@ -1,0 +1,6 @@
+
+            func main()
+            begin
+                bool b <- true and false or false and true or true or false
+            end
+        

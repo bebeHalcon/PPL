@@ -1,0 +1,4 @@
+## an anime quotes
+func True(number _) begin       
+    writeString("I won't say you'll definitely be able to do it if you don't give up. But if you do, then there'll definitely be nothing.")
+end

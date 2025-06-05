@@ -1,0 +1,9 @@
+
+            func test288()
+            ## testcase 288
+            begin
+                input <- "func test288() \n begin \n end"
+                expect <- "str(Program([FuncDecl(Id('test288'),[],Block([]))])"
+                assertTrue(test(input,expect,288))
+            end
+        

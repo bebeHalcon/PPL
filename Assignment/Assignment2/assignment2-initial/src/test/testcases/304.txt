@@ -1,0 +1,6 @@
+
+func main(bool boo)
+begin
+    number arr[2.3,47] <- 1 + "6"
+    s <- main(arr,2)
+end

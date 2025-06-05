@@ -1,0 +1,10 @@
+
+            dynamic num
+            var a <- 1
+            string b <- [[2]]
+            func main()
+            begin
+                foo(2)
+                c <- not 3 and foo()
+            end
+        

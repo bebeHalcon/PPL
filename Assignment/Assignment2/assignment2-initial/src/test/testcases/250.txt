@@ -1,0 +1,5 @@
+
+            string str <- "Testcase 250\n"
+            func main()
+
+        
